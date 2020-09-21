@@ -1,0 +1,8 @@
+{
+  "presets": 
+  [
+    "es2015","minify"
+  ]
+  //  "plugins": []
+}
+//minify es2015로 떨군 파일을 압축함
